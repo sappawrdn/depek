@@ -1,40 +1,40 @@
-body{
+body {
     font-family: 'poppins', sans-serif;
     background-color: #041C32;
 }
 
-.navbar-brand{
+.navbar-brand {
     font-family: 'Nunito', sans-serif;
 }
 
-.nav-link{
+.nav-link {
     font-weight: 500;
     font-size: 14px;
 }
 
-.carousel-item{
+.carousel-item {
     height: 100vh;
     position: relative;
     background-position: center;
     background-size: cover;
 }
 
-.card{
+.card {
     border: none;
     border-radius: 50px;
 }
 
-.card img{
+.card img {
     object-fit: cover;
     border-radius: 50px;
 }
 
-#tes{
+#tes {
     border-radius: 0;
-   background-color: #133B5C;
+    background-color: #133B5C;
 }
 
-.card-header{
+.card-header {
     font-family: 'Nunito', sans-serif;
     font-size: 30px;
     border: none;
